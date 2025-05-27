@@ -56,13 +56,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- PostgreSQL Driver -->
-		<dependency>
-			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
-		</dependency>
-
 		<!-- SQL Server Driver -->
 		<dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
